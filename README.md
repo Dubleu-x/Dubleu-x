@@ -1,24 +1,27 @@
-Hi,
-I'm a Certified Software Developer with a passion for designing and building efficient, scalable, and user-friendly applications. I enjoy transforming ideas into practical software solutions and continuously improving my skills through hands-on projects and learning.
+# Hi,
 
-### 💻 Tech Stack
+I'm a **Certified Software Developer** with a passion for designing and building efficient, scalable, and user-friendly applications. I enjoy transforming ideas into practical software solutions and continuously improving my skills through hands-on projects and continuous learning.
 
--javaScript (ES6+)
--java
--Spring Boot
--MySQL
--MongoDB
--HTML5 & CSS3
--RESTful APIs
--Git & GitHub
+## 💻 Tech Stack
 
-### What I Do
--Backend Development with Spring Boot
--Full-Stack Web Development
--Database Design and Management
--API Development and Integration
--Software Architecture and System Design
+- JavaScript (ES6+)
+- Java
+- Spring Boot
+- MySQL
+- MongoDB
+- HTML5 & CSS3
+- RESTful APIs
+- Git & GitHub
 
-🤝 Let's Connect
+##  What I Do
 
-I'm always interested in collaborating on software projects, contributing to open source, and connecting with fellow developers.
+- Backend Development with Spring Boot
+- Full-Stack Web Development
+- Database Design and Management
+- API Development and Integration
+- Software Architecture and System Design
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on software projects, contributing to open-source initiatives, and connecting with fellow developers.
+
