@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi,
+I'm a Certified Software Developer with a passion for designing and building efficient, scalable, and user-friendly applications. I enjoy transforming ideas into practical software solutions and continuously improving my skills through hands-on projects and learning.
 
-<!--
-**Dubleu-x/Dubleu-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack
 
-Here are some ideas to get you started:
+-javaScript (ES6+)
+-java
+-Spring Boot
+-MySQL
+-MongoDB
+-HTML5 & CSS3
+-RESTful APIs
+-Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+-Backend Development with Spring Boot
+-Full-Stack Web Development
+-Database Design and Management
+-API Development and Integration
+-Software Architecture and System Design
+
+🤝 Let's Connect
+
+I'm always interested in collaborating on software projects, contributing to open source, and connecting with fellow developers.
