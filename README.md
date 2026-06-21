@@ -1,6 +1,6 @@
 # Hi,
 
-I'm a **Certified Software Developer** with a passion for designing and building efficient, scalable, and user-friendly applications. I enjoy transforming ideas into practical software solutions and continuously improving my skills through hands-on projects and continuous learning.
+I'm a **Certified Software Developer** with a passion for designing and building efficient, scalable, and user-friendly Websites. I enjoy transforming ideas into practical software solutions and continuously improving my skills through hands-on projects and continuous learning.
 
 ## 💻 Tech Stack
 
