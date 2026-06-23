@@ -4,17 +4,12 @@ I'm a **Certified Software Developer** with a passion for designing and building
 
 ## 💻 Tech Stack
 
-- JavaScript (ES6+)
-- Java
-- Spring Boot
-- MySQL
-- MongoDB
-- HTML5 & CSS3
-- RESTful APIs
-- Git & GitHub
+- JavaScript (ES6+)    - MongoDB
+- Java                 - HTML5 & CSS3
+- Spring Boot          - RESTful APIs
+- MySQL                - Git & GitHub
 
 ##  What I Do
-
 - Backend Development with Spring Boot
 - Full-Stack Web Development
 - Database Design and Management
